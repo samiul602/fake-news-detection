@@ -5,7 +5,10 @@ import re
 import nltk
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
+import nltk
 
+nltk.download('stopwords')
+nltk.download('wordnet')
 # Load Model & Vectorizer
 import os
 
