@@ -463,6 +463,7 @@ st.markdown('</div>', unsafe_allow_html=True)
 st.markdown("""
 <div class="footer">
     <p>🔒 Your text is processed locally and never stored</p>
-    <p style="font-size: 0.8rem; margin-top: 8px;">Powered by Machine Learning · Built with Streamlit</p>
+    <p style="font-size: 0.8rem; margin-top: 8px;">🧠 Powered by Ensemble Machine Learning Models</p>
+            <p style="font-size: 0.8rem; margin-top: 8px;">🌐 Built with Streamlit</p>
 </div>
 """, unsafe_allow_html=True)
